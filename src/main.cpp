@@ -40,7 +40,7 @@ int main() {
     char letterGrade = determineLetterGrade(average);
     bool passing = isPassing(average);
 
-    printGradeReport(total, average, letterGrade, passing);
+    printGradeReport(total, average, letterGrade, passing); //Still doing good
 
     return 0;
 }
