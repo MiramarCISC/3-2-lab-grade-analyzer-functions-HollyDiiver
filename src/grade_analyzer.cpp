@@ -54,6 +54,6 @@ void printGradeReport(double total, double average, char letterGrade, bool passi
     if (passing) {
         cout << "Status: Passing" << endl;
     } else {
-        cout << "Status: Not Passing" << endl;
+        cout << "Status: Not Passing" << endl;  //Garrett: All looks good!
     }
 }
